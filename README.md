@@ -2,11 +2,7 @@
 
 I'm [Skyler](https://www.linkedin.com/in/skylerburger/) (he/him) and I like to tinker with: 
 
-<div style=" width: 150px;display:flex; flex-direction: row; justify-content: space-between; margin: auto;">
-<img src="assets/python.png" style="width: 50px; display:inline;">
-<img src="assets/plus.png" style="width: 25px; height: 25px; margin: auto; display:inline;">
-<img src="assets/javascript.png" style="width: 50px; display:inline;">
-</div>
+![](assets/languages.png)
 
 Here you'll find a mix of small projects and experiments:
 
