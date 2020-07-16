@@ -2,7 +2,7 @@
 
 I'm [Skyler](https://www.linkedin.com/in/skylerburger/) (he/him) and I like to tinker with: 
 
-![](assets/languages.png)
+<img src="https://i.imgur.com/deNjKHy.png">
 
 Here you'll find a mix of small projects and experiments:
 
