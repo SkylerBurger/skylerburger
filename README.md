@@ -1,12 +1,12 @@
 ### Welcome Gentle Beings!
 
-I'm [Skyler](https://www.linkedin.com/in/skylerburger/) (he/him) and I like to tinker with: 
+**I'm [Skyler](https://www.linkedin.com/in/skylerburger/) (he/him) and I like to tinker with:**
 
 <img src="https://i.imgur.com/deNjKHy.png">
 
-Here you'll find a mix of small projects and experiments:
+**Here you'll find a mix of small projects and experiments:**
 
-- Feeling mischievous and want to generate a ransom note? Try [SpooPyNotes](https://spoopy-notes.firebaseapp.com/)! (Back end deployed on Heroku, so it may take few seconds to get an image the first time :D)
+- Feeling mischievous and want to generate a ransom note? Try [SpooPyNotes](https://spoopy-notes.firebaseapp.com/)! *(Back end deployed on Heroku, so it may take few seconds to get an image the first time :D)*
 
 - Enjoy web scrapers and APIs? There's a collection of a few I've played with in my [apis_and_scrapers](https://github.com/SkylerBurger/apis_and_scrapers) repo. 
 
