@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/deNjKHy.png">
 
-**My Portfolio is over at:** [skybur.io](https://skybur.io/)
+**My Portfolio is over at:** [**skybur.io**](https://skybur.io/)
 
 **Here you'll find a mix of projects and experiments:**
 
